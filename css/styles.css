@@ -20,3 +20,8 @@ body{
     width: 100%;
     object-fit: none;
 }
+
+.card img {
+    height: 200px;
+}
+
